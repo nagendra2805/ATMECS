@@ -1,0 +1,68 @@
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csprojAssemblyReference.cache
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem_MarkupCompile.cache
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem_MarkupCompile.lref
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\UpdateContact.g.cs
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.exe
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.deps.json
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.runtimeconfig.json
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.runtimeconfig.dev.json
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.pdb
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\UpdateContact.baml
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.g.resources
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.AssemblyInfoInputs.cache
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.AssemblyInfo.cs
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csproj.CopyComplete
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.pdb
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.genruntimeconfig.cache
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\nduvvapu\Desktop\ATMECS\ContactsMangementSystem\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.exe
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.deps.json
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.runtimeconfig.json
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.runtimeconfig.dev.json
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\ContactsMangementSystem.pdb
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csprojAssemblyReference.cache
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\UpdateContact.g.cs
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem_MarkupCompile.cache
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem_MarkupCompile.lref
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\UpdateContact.baml
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.g.resources
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.AssemblyInfoInputs.cache
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.AssemblyInfo.cs
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csproj.CoreCompileInputs.cache
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.csproj.CopyComplete
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.dll
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.pdb
+D:\Development\ATMECS Code\ContactsMangementSystem\obj\Debug\netcoreapp3.1\ContactsMangementSystem.genruntimeconfig.cache

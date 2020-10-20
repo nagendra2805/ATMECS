@@ -1,0 +1,28 @@
+﻿<Window x:Class="ContactsMangementSystem.UpdateContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContactsMangementSystem"
+        mc:Ignorable="d"
+        Title="UpdateContact" Height="487" Width="553" Background="AntiqueWhite">
+    <Grid>
+        <Label x:Name="label" Content="Contact Updation Window" FontSize="22" Background="Orange" FontWeight="Bold" HorizontalAlignment="Left" Margin="128,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="fname" Content="First Name :" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,75,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="FName" IsEnabled="False" HorizontalAlignment="Left" Margin="222,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" Visibility="Visible"/>
+        <Label x:Name="lname" Content="Last Name :" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,110,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LName" IsEnabled="False" HorizontalAlignment="Left" Margin="222,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Label x:Name="DOB" Content="Date of Birth :" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,144,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="dob" HorizontalAlignment="Left" Margin="222,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Label x:Name="EmailId" Content="Email ID :" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,179,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="emailid" HorizontalAlignment="Left" Margin="222,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183"/>
+        <TextBox x:Name="alternateEmailId" HorizontalAlignment="Left" Margin="222,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183"/>
+        <TextBox x:Name="mobileno" HorizontalAlignment="Left" Margin="222,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183"/>
+        <Label x:Name="Alternateemaild" Content="Alternate Email ID :" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,212,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Alternatemobileno" Content="Alternate Mobile Number:" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,278,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Mobileno" Content="Mobile Number:" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left" Margin="29,244,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="alternatemobileno" HorizontalAlignment="Left" Margin="222,286,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="187"/>
+        <Button x:Name="button" Content="Update Contact" FontWeight="Bold" HorizontalAlignment="Left" Margin="166,341,0,0" VerticalAlignment="Top" Width="119" Height="27" Click="button_Click"/>
+
+    </Grid>
+</Window>
