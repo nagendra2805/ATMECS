@@ -105,6 +105,7 @@ namespace ContactsMangementSystem
             alternateemailid.Clear();
             mobileno.Clear();
             alternatemobileno.Clear();
+            datePicker.SelectedDate = null;
         }
 
         private void button2_Click(object sender, RoutedEventArgs e)
